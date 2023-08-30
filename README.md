@@ -1,4 +1,4 @@
-# Prokkom-Teori
+# Prokom-Teori
 ## P2
 Fungsi Print
 ## P3
